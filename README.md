@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 ## Hi! 
 
-I am **Yazid** 🐱‍👤, a web developer based in Malaysia. I'm really passionate in coding and really enjoy them. Besides coding, I love to design beautiful UI/UX.
+I am **Yazid** 🐱‍👤, a web developer based in Malaysia. I'm really passionate about coding and really enjoy them. Besides coding, I love to design beautiful UI/UX.
 
 **Frontend:** HTML, CSS, SASS, JavaScript
 
