@@ -1,16 +1,23 @@
-### Hi there 👋
-
 <!--
 **yazidrahimi7/yazidrahimi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## Hi! 
+
+I am **Yazid** 🐱‍👤, a web developer based in Malaysia. I'm really passionate in coding and really enjoy them. Besides coding, I love to design beautiful UI/UX.
+
+**Frontend:** HTML, CSS, SASS, JavaScript
+
+**Framework:** Laravel, Vue.JS, Bootstrap
+
+**Backend:** PHP, Java, C++, MySQL, Oracle SQL
+
+**Design:** Adobe Photoshop, Adobe XD, Adobe Illustator, Figma
+
+---
+
+### Find me on social media
+
+[<img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" width="40"/>](https://www.instagram.com/yazidrahimi/) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="38"/>](https://www.instagram.com/yazidrahimi/)
