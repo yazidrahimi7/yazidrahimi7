@@ -10,8 +10,6 @@ I am **Yazid** 🐱‍👤, a web developer based in Malaysia. I'm really passio
 
 **Frontend:** HTML, CSS, SASS, JavaScript
 
-**Framework:** Laravel, Vue.JS, Bootstrap
-
 **Backend:** PHP, Java, C++, MySQL, Oracle SQL
 
 **Design:** Adobe Photoshop, Adobe XD, Adobe Illustator, Figma
