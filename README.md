@@ -4,9 +4,9 @@
 Here are some ideas to get you started:
 -->
 
-## Hi! 
+## HELLO!
 
-I am **Yazid** 🐱‍👤, a web developer based in Malaysia. I'm really passionate about coding and really enjoy them. Besides coding, I love to design beautiful UI/UX.
+I am **Yazid** 🐱‍👤, a web developer based in Malaysia. I'm really passionate about coding and I really enjoy design and build user interfaces. Besides coding, I love to play video games like Dota 2, FIFA, Last of Us and more! and I also love listening to music.
 
 **Frontend:** HTML, CSS, SASS, JavaScript
 
@@ -18,4 +18,7 @@ I am **Yazid** 🐱‍👤, a web developer based in Malaysia. I'm really passio
 
 ### Find me on social media
 
-[<img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" width="40"/>](https://www.instagram.com/yazidrahimi/) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="38"/>](https://www.instagram.com/yazidrahimi/)
+[<img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" width="40"/>](https://www.instagram.com/yazidrahimi/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="38"/>](https://www.instagram.com/yazidrahimi/)
+[<img src="https://img.icons8.com/windows/32/000000/dev.png" width="40"/>](https://dev.to/yazidrahimi7)
+[<img src="https://img.icons8.com/bubbles/50/000000/road-closure.png" width="40"/>](Coming soon!)
