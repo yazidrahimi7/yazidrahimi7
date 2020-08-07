@@ -21,4 +21,4 @@ I am **Yazid** 🐱‍👤, a web developer based in Malaysia. I'm really passio
 [<img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" width="40"/>](https://www.instagram.com/yazidrahimi/)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="38"/>](https://www.instagram.com/yazidrahimi/)
 [<img src="https://img.icons8.com/windows/32/000000/dev.png" width="40"/>](https://dev.to/yazidrahimi7)
-[<img src="https://img.icons8.com/bubbles/50/000000/road-closure.png" width="40"/>](Coming soon!)
+<img src="https://img.icons8.com/bubbles/50/000000/road-closure.png" width="40"/>Coming soon!
