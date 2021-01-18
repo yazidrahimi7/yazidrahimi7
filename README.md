@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 ## HELLO!
 
-I am Muhammad **Yazid** 🐱‍👤, a web developer based in Malaysia. I'm really passionate about coding and I really enjoy design and build user interfaces. Besides coding, I love to play video games and one of my favourite is Dota 2, and I also love listening to music.
+I am Muhammad **Yazid** 🐱‍👤, a Web Developer based in Malaysia. I'm really passionate about coding and I really enjoy design and build user interfaces. Besides coding, I love to play video games and one of my favourite is Dota 2, and I also love listening to music.
 
 **Frontend:** HTML, CSS, SASS, JavaScript, Vue JS
 
