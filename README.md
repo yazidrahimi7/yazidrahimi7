@@ -6,13 +6,13 @@ Here are some ideas to get you started:
 
 ## HELLO!
 
-I am Muhammad **Yazid** 🐱‍👤, a Web Developer based in Malaysia. I'm really passionate about coding and I love designing and building user interfaces. Besides coding, I enjoy playing video games, especially Dota 2, and I also enjoy listening to music.
+I am Muhammad **Yazid** 🐱‍👤, a Product Designer based in Malaysia. I can codes and I love designing and building user interfaces. On the other hand, I enjoy playing video games, especially Dota 2, and I also enjoy listening to music.
 
 **Frontend:** HTML, CSS, SASS, JavaScript, Vue JS
 
 **Backend:** PHP, Java, C++, MySQL, Oracle SQL
 
-**Design:** Adobe Photoshop, Adobe XD, Adobe Illustator, Figma
+**Design:** Photoshop, Illustator, Premiere Pro, XD, Figma
 
 ---
 
